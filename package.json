@@ -1,0 +1,12 @@
+{
+  "name": "lesson-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth.js",
+  "scripts": {
+    "start": "node auth.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
